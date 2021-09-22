@@ -58,8 +58,6 @@ Since I'm running my virtualization with **Minikube**, I can check whether the t
 
 Poking things around, I can also check the compute resources of the Pods and their utilization. I can check networking like bandwidth, packet transmissions etc
 
-![image-3d](./prometheus/image-3d.png)
-
 You can also monitor master processes like Schedulers, API server, etc. I'll grab the API server metric dashboard. Important to know is that monitoring is in real time, no need to keep fetching the dashboard again or refreshing browser.
 
 ![image-3e](./prometheus/image-3e.png)
