@@ -1,4 +1,4 @@
-# Monitoring Kubernetes With Prometheus And Grafana
+# Monitoring Kubernetes With Prometheus & Grafana
 
 <p float="left">
   <img src="https://github.com/appwebtech/EKS-Cluster-With-Terraform/blob/main/images/k8s-logo.png" width="100">
