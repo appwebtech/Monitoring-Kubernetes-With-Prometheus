@@ -1,5 +1,16 @@
 # Monitoring Kubernetes With Prometheus And Grafana
 
+<p float="left">
+  <img src="https://github.com/appwebtech/EKS-Cluster-With-Terraform/blob/main/images/k8s-logo.png" width="100">
+
+  <img src="https://github.com/appwebtech/Monitoring-Kubernetes-With-Prometheus/blob/main/prometheus/prometheus-logo.png" width="100">
+  
+  <img src="https://github.com/appwebtech/Monitoring-Kubernetes-With-Prometheus/blob/main/prometheus/Grafana.png" width="100">
+</p>
+
+----
+
+
 ## Introduction
 
 **Prometheus** is an open-source monitoring software that is highly customizable and collects metrics without hindering application performance. It's widely known for it's effective monitoring of cloud-native applications, microservices and infrastructure.
