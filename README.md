@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="https://github.com/appwebtech/Monitoring-Kubernetes-With-Prometheus/blob/main/logo/linux_logo.png" width="90">
-<img src="" width="90">
+<img src="https://github.com/appwebtech/Monitoring-Kubernetes-With-Prometheus/blob/main/logo/terminal.png" width="90">
   <img src="https://github.com/appwebtech/EKS-Cluster-With-Terraform/blob/main/images/k8s-logo.png" width="100">
 
   <img src="https://github.com/appwebtech/Monitoring-Kubernetes-With-Prometheus/blob/main/prometheus/prometheus-logo.png" width="100">
