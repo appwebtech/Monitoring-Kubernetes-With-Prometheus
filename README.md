@@ -1,6 +1,7 @@
 # Monitoring Kubernetes With Prometheus & Grafana
 
 <p float="left">
+  <img src="" width="100">
   <img src="https://github.com/appwebtech/EKS-Cluster-With-Terraform/blob/main/images/k8s-logo.png" width="100">
 
   <img src="https://github.com/appwebtech/Monitoring-Kubernetes-With-Prometheus/blob/main/prometheus/prometheus-logo.png" width="100">
